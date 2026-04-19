@@ -154,7 +154,3 @@
 
 ---
 
-## 五、文件说明
-
-```text
-protocol4_simple_gui_led.py
